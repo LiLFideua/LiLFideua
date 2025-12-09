@@ -46,5 +46,3 @@ Currently, I am focused on the intersection of **Quantum Information**, **Photon
 ### 📫 Connect with me
 * **LinkedIn:** [linkedin.com/in/lucas-tarrago](https://linkedin.com/in/lucas-tarrago)
 * **Email:** [lucas.tarragomahiques@gmail.com](mailto:lucas.tarragomahiques@gmail.com)
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
