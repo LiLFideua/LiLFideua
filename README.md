@@ -2,16 +2,29 @@
 
 ### 🚀 Engineering Physicist | Space Systems M.Sc. Student
 
-I am a final-year **Engineering Physics** student and **M.Sc. candidate in Space Systems** based in **Valencia, Spain**. My work bridges the gap between abstract theoretical physics and robust engineering implementation.
+I am an **Engineering Physics graduate** and current **M.Sc. student in Space Systems** based in **Valencia, Spain**. My work bridges the gap between abstract theoretical physics and robust engineering implementation.
 
 Currently, I am focused on the intersection of **Quantum Information**, **Photonics**, and **Aerospace Electronics**, aiming to design instrumentation capable of withstanding extreme environments—from quantum decoherence to the vacuum of space.
 
 ---
 
-### 🔭 Current Status
-* 🎓 **M.Sc. in Space Systems** at UPV (Focus: Rad-Hard Electronics & Space Instrumentation).
-* ⚛️ **Undergraduate Research Intern** at **iTEAM Research Institute**, working on Quantum-Classical Communication Interfaces.
-* 🛰️ **Bachelor's Thesis:** Investigating error models and data integrity in quantum channels under noisy conditions.
+### 🔭 Current Focus
+* 🎓 **M.Sc. in Space Systems** at UPV (In Progress).
+    * **Focus:** Radiation Hardness Assurance (RHA), Space Electronics, and High-Reliability Instrumentation for satellite subsystems.
+
+---
+
+### ✅ Background & Completed Research
+* ⚛️ **Undergraduate Research Intern** at **iTEAM Research Institute** (2025).
+    * Collaborated with a research team exploring novel theories in quantum information.
+    * Investigated the transmission of classical information through quantum channels.
+* 📜 **Bachelor's Thesis (Capstone Project):**
+    * Research topic: "Quantum-classical communication interfaces under noiseless and noisy conditions".
+    * Designed theoretical frameworks and conducted simulations to support scientific dissemination.
+* 🏆 **LINAC Particle Accelerator Challenge:**
+    * Co-organized an international software-based LINAC development challenge.
+    * Fostered collaboration between student groups to promote particle physics education.
+* 🎓 **Bachelor’s Degree in Engineering Physics** at UPV.
 
 ---
 
@@ -30,16 +43,15 @@ Currently, I am focused on the intersection of **Quantum Information**, **Photon
 
 ---
 
-### 🔬 Research & Projects
+### 🔬 Research & Projects Portfolio
 
-#### ⚛️ Quantum Information & Photonics
-* **Quantum Channel Simulation:** Developing Python-based simulations to model the transmission of classical information through quantum channels.
-* **Error Correction Analysis:** Studying how noise impacts data integrity in hybrid quantum-classical systems.
-* **Hybrid Interfaces:** Designing theoretical frameworks for photonic and electronic integration.
+#### ⚛️ Quantum Information & Photonics (Completed)
+* **Quantum Channel Simulation:** Developed Python-based simulations using **Qiskit** to model the transmission of classical information through quantum channels.
+* **Error Correction Analysis:** Analyzed how noise models impact data integrity in hybrid quantum-classical systems.
+* **Hybrid Interfaces:** Designed theoretical frameworks for photonic and electronic integration.
 
-#### 🌌 Space Systems & Particle Physics
-* **Space Electronics:** Studying Radiation Hardness Assurance (RHA) and high-reliability design for satellite subsystems.
-* **LINAC Challenge:** Co-organizer and team member for the Linear Accelerator software development challenge, fostering collaboration between physics and engineering students.
+#### 🌌 Space Systems
+* **Space Electronics:** Studying Radiation Hardness Assurance (RHA) and high-reliability design for satellite subsystems (Current academic focus).
 
 ---
 
